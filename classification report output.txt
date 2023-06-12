@@ -1,0 +1,49 @@
+classification report for -  model/model_random_forest_manhattan_bert_distance_n.sav
+[[528462     10]
+ [    27    459]]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00    528472
+           1       0.98      0.94      0.96       486
+
+    accuracy                           1.00    528958
+   macro avg       0.99      0.97      0.98    528958
+weighted avg       1.00      1.00      1.00    528958
+
+Micro-average Precision: 0.9999300511571807
+Micro-average Recall: 0.9999300511571807
+Micro-average F1-Score: 0.9999300511571807
+
+
+classification report for -  euclidean_distance df2 random forest model
+[[528461     11]
+ [    27    459]]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00    528472
+           1       0.98      0.94      0.96       486
+
+    accuracy                           1.00    528958
+   macro avg       0.99      0.97      0.98    528958
+weighted avg       1.00      1.00      1.00    528958
+
+Micro-average Precision: 0.9999281606479153
+Micro-average Recall: 0.9999281606479153
+Micro-average F1-Score: 0.9999281606479153
+
+
+classification report for -  model/ann_model_bert_embading.pkl
+[[264211      9]
+ [    21    238]]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00    264220
+           1       0.96      0.92      0.94       259
+
+    accuracy                           1.00    264479
+   macro avg       0.98      0.96      0.97    264479
+weighted avg       1.00      1.00      1.00    264479
+
+Micro-average Precision: 0.9998865694440768
+Micro-average Recall: 0.9998865694440768
+Micro-average F1-Score: 0.9998865694440768
